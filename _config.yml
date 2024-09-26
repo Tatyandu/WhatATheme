@@ -7,47 +7,47 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Tatiana Anduquia
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Data Scientist
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+#site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Data Science, 
 # URL for the Image of custom Favicon
-favicon-url: 
-
+favicon-url: /assets/images/favicon.png
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage:  /assets/images/background_data_scientist_2.png #https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+email: contacto@tatyandu.com
+#facebook_username: thedevslot
+#twitter_username: thedevslot
+#instagram_username: thedevslot
+linkedin_username: tatyandu
+github_username:  Tatyandu
+#youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+#reddit_username: /
+#behance_username: /
+#dribbble_username: /
+#spotify_username: /
 
 # Google Analytics
-google-analytics: UA-163806439-1
+#google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: Tatyandu
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Tatiana Anduquia
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /assets/images/perfil.png #https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: Ingeniera de Sistemas con experiencia en desarrollo web y gestión de bases de datos. Después de varios años en la industria tecnológica, he decidido dar un giro a mi carrera hacia la Ciencia de Datos, un campo que me apasiona por su capacidad de extraer valor y conocimiento a partir de grandes volúmenes de datos. Aunque estoy iniciando en esta área, estoy entusiasmada por aprender y aplicar técnicas de análisis de datos y machine learning. Mi objetivo es desarrollar mi carrera como Científica de Datos en un entorno donde pueda combinar mi pasión por los datos con las habilidades técnicas que he adquirido a lo largo de mi trayectoria profesional.
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/Tatyandu
 
 # SASS
 sass:
